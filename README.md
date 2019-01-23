@@ -1,6 +1,8 @@
 # anclust
 Text annotation-based hierarchical clustering
 
+Allows an easy implementation in R of hierarchical clustering based on text annotations. May be used to cluster genes, proteins or metabolites from high-throughput analyses.
+
 See an example of use (R code) below.
 
 ```r
